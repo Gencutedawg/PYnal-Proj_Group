@@ -1,3 +1,6 @@
+#pls do not remove comments, rreview ko pa for defense hehhe tytytyytytyy
+
+
 from tkinter import Tk, Canvas, Label # Import Tkinter modules for GUI components
 from PIL import Image, ImageTk, ImageDraw  # Import modules from PIL for image processing
 
